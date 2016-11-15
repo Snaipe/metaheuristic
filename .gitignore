@@ -1,0 +1,6 @@
+*.pyc
+epoch-*.png
+result.png
+
+*.swp
+~*
