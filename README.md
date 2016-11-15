@@ -14,7 +14,7 @@ This projects uses two metaheuristics to optimize the placement of electonic com
 * `annealing/` uses Simulated Annealing to find a configuration with minimum cost.
 * `genetics/` uses a genetic algorithm to find a configuration with minimum cost.
 
-[![Progression using Simulated Annealing](./annealing/demo.png)](./annealing/demo.png)
+[![Progression using Simulated Annealing](./annealing/demo.gif)](./annealing/demo.gif)
 
 ## Prerequisites
 
